@@ -4,12 +4,14 @@ I'm a full-stack developer specializing in scalable modern web apps.
 
 ---
 
-## 🚀 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]()
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)]()
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)]()
+## 🌐 Socials
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abdus-sobhan-sohan-384681399/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/1GxwApr8bg/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1096039243714936862)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:abdussobhansohan45@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/er.ror__x?igsh=MXhjdXhlYzcydG90MQ==)
+
 
 ## 🛠 Skills Overview
 
