@@ -43,4 +43,4 @@ My professional focus is on designing, developing, and deploying robust, scalabl
 ---
 
 ## 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ByteNexus77&theme=react-dark)
